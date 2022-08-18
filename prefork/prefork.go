@@ -9,8 +9,8 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp/reuseport"
+	"github.com/vidocsecurity/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp/reuseport"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func ExampleListenAndServe() {

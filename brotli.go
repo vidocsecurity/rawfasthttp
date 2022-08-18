@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp/stackless"
+	"github.com/vidocsecurity/rawfasthttp/stackless"
 
 	"github.com/andybalholm/brotli"
 	"github.com/valyala/bytebufferpool"

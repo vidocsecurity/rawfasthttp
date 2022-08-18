@@ -3,7 +3,7 @@ package rawfasthttp_test
 import (
 	"log"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func ExampleHostClient() {

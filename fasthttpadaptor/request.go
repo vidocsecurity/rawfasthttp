@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 // ConvertRequest convert a rawfasthttp.Request to an http.Request

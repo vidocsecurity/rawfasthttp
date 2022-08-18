@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 // FasthttpHTTPDialer returns a rawfasthttp.DialFunc that dials using

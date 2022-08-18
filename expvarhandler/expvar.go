@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 var (

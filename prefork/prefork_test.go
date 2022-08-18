@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func setUp() {

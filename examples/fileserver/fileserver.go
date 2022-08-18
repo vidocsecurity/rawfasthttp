@@ -9,8 +9,9 @@ import (
 	"flag"
 	"log"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp/expvarhandler"
+	"github.com/vidocsecurity/rawfasthttp/expvarhandler"
+
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 var (

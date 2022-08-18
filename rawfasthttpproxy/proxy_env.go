@@ -9,9 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
+	"github.com/vidocsecurity/rawfasthttp"
 	"golang.org/x/net/http/httpproxy"
-
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
 )
 
 const (

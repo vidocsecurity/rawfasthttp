@@ -4,10 +4,10 @@ import (
 	"crypto/tls"
 	"net"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
-
 	"golang.org/x/crypto/acme"
 	"golang.org/x/crypto/acme/autocert"
+
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func requestHandler(ctx *rawfasthttp.RequestCtx) {

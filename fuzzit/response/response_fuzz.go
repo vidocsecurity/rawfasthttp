@@ -6,8 +6,6 @@ package fuzz
 import (
 	"bufio"
 	"bytes"
-
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
 )
 
 func Fuzz(data []byte) int {

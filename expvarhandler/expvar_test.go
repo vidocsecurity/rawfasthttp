@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func TestExpvarHandlerBasic(t *testing.T) {

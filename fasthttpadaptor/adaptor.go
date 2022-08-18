@@ -5,7 +5,7 @@ package rawfasthttpadaptor
 import (
 	"net/http"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 // NewFastHTTPHandlerFunc wraps net/http handler func to fasthttp

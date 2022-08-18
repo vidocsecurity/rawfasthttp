@@ -5,8 +5,8 @@ import (
 	"net"
 	"testing"
 
+	"github.com/vidocsecurity/rawfasthttp"
 	"github.com/vidocsecurity/rawfasthttp/rawfasthttputil"
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
 )
 
 // BenchmarkPlainStreaming measures end-to-end plaintext streaming performance

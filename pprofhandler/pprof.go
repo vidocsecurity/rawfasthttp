@@ -5,8 +5,8 @@ import (
 	rtp "runtime/pprof"
 	"strings"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
-	rawfasthttpadaptor "github.com/vidocsecurity/runner/pkg/rawfasthttp/fasthttpadaptor"
+	"github.com/vidocsecurity/rawfasthttp"
+	rawfasthttpadaptor "github.com/vidocsecurity/rawfasthttp/fasthttpadaptor"
 )
 
 var (

@@ -10,7 +10,7 @@ Preforks master process between several child processes increases performance, b
 
 ```go
 import (
-    "github.com/vidocsecurity/runner/pkg/rawfasthttp"
+    "github.com/vidocsecurity/rawfasthttp/rawfasthttputil"
     "rawfasthttp/prefork"
 )
 

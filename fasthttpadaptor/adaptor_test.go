@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func TestNewFastHTTPHandler(t *testing.T) {

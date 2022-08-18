@@ -4,8 +4,7 @@ import (
 	"net"
 	"net/url"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
-
+	"github.com/vidocsecurity/rawfasthttp"
 	"golang.org/x/net/proxy"
 )
 

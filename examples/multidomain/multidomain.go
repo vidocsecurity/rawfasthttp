@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 var domains = make(map[string]rawfasthttp.RequestHandler)

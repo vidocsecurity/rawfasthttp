@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 // Setup file handlers (aka 'file server config')

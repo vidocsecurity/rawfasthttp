@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp/stackless"
+	"github.com/vidocsecurity/rawfasthttp/stackless"
 
 	"github.com/klauspost/compress/flate"
 	"github.com/klauspost/compress/gzip"

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/vidocsecurity/runner/pkg/rawfasthttp"
+	"github.com/vidocsecurity/rawfasthttp"
 )
 
 func ExampleLBClient() {
